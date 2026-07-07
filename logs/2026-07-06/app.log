@@ -1,0 +1,1904 @@
+[E 260706 11:33:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:33:33 smartConnect:124] in pool
+[E 260706 11:33:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:33:45 smartConnect:124] in pool
+[E 260706 11:33:47 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:33:57 smartConnect:124] in pool
+[E 260706 11:34:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:34:10 smartConnect:124] in pool
+[E 260706 11:34:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:34:22 smartConnect:124] in pool
+[E 260706 11:34:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:34:34 smartConnect:124] in pool
+[E 260706 11:34:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:34:46 smartConnect:124] in pool
+[E 260706 11:34:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:34:58 smartConnect:124] in pool
+[E 260706 11:35:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:35:10 smartConnect:124] in pool
+[E 260706 11:35:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:35:22 smartConnect:124] in pool
+[E 260706 11:35:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:35:34 smartConnect:124] in pool
+[E 260706 11:35:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:35:45 smartConnect:124] in pool
+[E 260706 11:35:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:35:58 smartConnect:124] in pool
+[E 260706 11:36:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:36:11 smartConnect:124] in pool
+[E 260706 11:36:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[E 260706 11:39:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 11:39:54 smartConnect:124] in pool
+[E 260706 12:02:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:02:27 smartConnect:124] in pool
+[E 260706 12:02:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:02:40 smartConnect:124] in pool
+[E 260706 12:02:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:02:48 smartConnect:124] in pool
+[E 260706 12:03:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:03:19 smartConnect:124] in pool
+[E 260706 12:03:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:03:33 smartConnect:124] in pool
+[E 260706 12:03:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:03:47 smartConnect:124] in pool
+[E 260706 12:03:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:04:01 smartConnect:124] in pool
+[E 260706 12:04:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:04:14 smartConnect:124] in pool
+[E 260706 12:04:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:04:29 smartConnect:124] in pool
+[E 260706 12:04:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:04:43 smartConnect:124] in pool
+[E 260706 12:04:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:04:48 smartConnect:124] in pool
+[E 260706 12:05:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:05:05 smartConnect:124] in pool
+[E 260706 12:05:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:05:22 smartConnect:124] in pool
+[E 260706 12:05:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:05:38 smartConnect:124] in pool
+[E 260706 12:05:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:05:57 smartConnect:124] in pool
+[E 260706 12:06:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:06:19 smartConnect:124] in pool
+[E 260706 12:06:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:06:34 smartConnect:124] in pool
+[E 260706 12:06:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:06:49 smartConnect:124] in pool
+[E 260706 12:06:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:06:53 smartConnect:124] in pool
+[E 260706 12:07:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:07:17 smartConnect:124] in pool
+[E 260706 12:07:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:07:30 smartConnect:124] in pool
+[E 260706 12:07:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:07:42 smartConnect:124] in pool
+[E 260706 12:07:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:07:51 smartConnect:124] in pool
+[E 260706 12:07:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:07:59 smartConnect:124] in pool
+[E 260706 12:08:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:08:22 smartConnect:124] in pool
+[E 260706 12:08:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:08:35 smartConnect:124] in pool
+[E 260706 12:08:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:08:47 smartConnect:124] in pool
+[E 260706 12:08:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:08:53 smartConnect:124] in pool
+[E 260706 12:09:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:09:12 smartConnect:124] in pool
+[E 260706 12:09:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:09:24 smartConnect:124] in pool
+[E 260706 12:09:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:09:36 smartConnect:124] in pool
+[E 260706 12:09:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:09:48 smartConnect:124] in pool
+[E 260706 12:09:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:09:53 smartConnect:124] in pool
+[E 260706 12:10:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:10:15 smartConnect:124] in pool
+[E 260706 12:10:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:10:28 smartConnect:124] in pool
+[E 260706 12:10:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:10:30 smartConnect:124] in pool
+[E 260706 12:10:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:10:53 smartConnect:124] in pool
+[E 260706 12:10:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:11:00 smartConnect:124] in pool
+[E 260706 12:11:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:11:11 smartConnect:124] in pool
+[E 260706 12:11:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:11:22 smartConnect:124] in pool
+[E 260706 12:11:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:11:37 smartConnect:124] in pool
+[E 260706 12:11:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:11:50 smartConnect:124] in pool
+[E 260706 12:12:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:12:11 smartConnect:124] in pool
+[E 260706 12:12:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:12:24 smartConnect:124] in pool
+[E 260706 12:12:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:12:36 smartConnect:124] in pool
+[E 260706 12:12:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:12:43 smartConnect:124] in pool
+[E 260706 12:12:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:12:56 smartConnect:124] in pool
+[E 260706 12:13:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:13:11 smartConnect:124] in pool
+[E 260706 12:13:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:13:22 smartConnect:124] in pool
+[E 260706 12:13:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:13:47 smartConnect:124] in pool
+[E 260706 12:13:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:13:59 smartConnect:124] in pool
+[E 260706 12:14:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:14:13 smartConnect:124] in pool
+[E 260706 12:14:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:14:38 smartConnect:124] in pool
+[E 260706 12:14:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:14:52 smartConnect:124] in pool
+[E 260706 12:15:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:15:04 smartConnect:124] in pool
+[E 260706 12:15:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:15:20 smartConnect:124] in pool
+[E 260706 12:15:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:15:33 smartConnect:124] in pool
+[E 260706 12:15:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:15:45 smartConnect:124] in pool
+[E 260706 12:15:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:16:08 smartConnect:124] in pool
+[E 260706 12:16:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:16:20 smartConnect:124] in pool
+[E 260706 12:16:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:16:32 smartConnect:124] in pool
+[E 260706 12:16:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:16:46 smartConnect:124] in pool
+[E 260706 12:16:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:16:50 smartConnect:124] in pool
+[E 260706 12:17:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:17:12 smartConnect:124] in pool
+[E 260706 12:17:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:17:26 smartConnect:124] in pool
+[E 260706 12:17:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:17:38 smartConnect:124] in pool
+[E 260706 12:17:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:17:50 smartConnect:124] in pool
+[E 260706 12:17:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:17:55 smartConnect:124] in pool
+[E 260706 12:18:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:18:35 smartConnect:124] in pool
+[E 260706 12:18:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:18:59 smartConnect:124] in pool
+[E 260706 12:19:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:19:12 smartConnect:124] in pool
+[E 260706 12:19:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:19:27 smartConnect:124] in pool
+[E 260706 12:19:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:19:47 smartConnect:124] in pool
+[E 260706 12:19:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:20:08 smartConnect:124] in pool
+[E 260706 12:20:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:20:20 smartConnect:124] in pool
+[E 260706 12:20:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:20:32 smartConnect:124] in pool
+[E 260706 12:20:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:20:44 smartConnect:124] in pool
+[E 260706 12:20:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:20:50 smartConnect:124] in pool
+[E 260706 12:20:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:21:09 smartConnect:124] in pool
+[E 260706 12:21:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:21:20 smartConnect:124] in pool
+[E 260706 12:21:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:21:33 smartConnect:124] in pool
+[E 260706 12:21:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:21:46 smartConnect:124] in pool
+[E 260706 12:21:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:21:51 smartConnect:124] in pool
+[E 260706 12:22:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:22:03 smartConnect:124] in pool
+[E 260706 12:22:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:22:19 smartConnect:124] in pool
+[E 260706 12:22:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:22:41 smartConnect:124] in pool
+[E 260706 12:22:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:22:50 smartConnect:124] in pool
+[E 260706 12:22:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:23:07 smartConnect:124] in pool
+[E 260706 12:23:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:23:13 smartConnect:124] in pool
+[E 260706 12:23:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:23:27 smartConnect:124] in pool
+[E 260706 12:23:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:23:44 smartConnect:124] in pool
+[E 260706 12:23:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:23:58 smartConnect:124] in pool
+[E 260706 12:24:18 smartConnect:221] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '24:fd:52:e2:84:d1', 'Accept': 'application/json', 'X-PrivateKey': 'pBBfHTNf', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'MAEL1045', 'password': '2911', 'totp': '945537'}, Response: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[E 260706 12:24:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:24:33 smartConnect:124] in pool
+[E 260706 12:24:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:24:45 smartConnect:124] in pool
+[E 260706 12:24:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:25:06 smartConnect:124] in pool
+[E 260706 12:25:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:25:20 smartConnect:124] in pool
+[E 260706 12:25:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:25:33 smartConnect:124] in pool
+[E 260706 12:25:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:25:45 smartConnect:124] in pool
+[E 260706 12:25:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:25:50 smartConnect:124] in pool
+[E 260706 12:26:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:26:12 smartConnect:124] in pool
+[E 260706 12:26:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:26:24 smartConnect:124] in pool
+[E 260706 12:26:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:26:32 smartConnect:124] in pool
+[E 260706 12:26:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:26:55 smartConnect:124] in pool
+[E 260706 12:27:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:27:05 smartConnect:124] in pool
+[E 260706 12:27:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:27:20 smartConnect:124] in pool
+[E 260706 12:27:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:27:30 smartConnect:124] in pool
+[E 260706 12:27:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:27:45 smartConnect:124] in pool
+[E 260706 12:27:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:27:55 smartConnect:124] in pool
+[E 260706 12:28:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:28:10 smartConnect:124] in pool
+[E 260706 12:28:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:28:30 smartConnect:124] in pool
+[E 260706 12:28:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:28:45 smartConnect:124] in pool
+[E 260706 12:28:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:28:55 smartConnect:124] in pool
+[E 260706 12:29:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:29:10 smartConnect:124] in pool
+[E 260706 12:29:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:29:20 smartConnect:124] in pool
+[E 260706 12:29:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:29:35 smartConnect:124] in pool
+[E 260706 12:29:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:29:45 smartConnect:124] in pool
+[E 260706 12:29:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:29:55 smartConnect:124] in pool
+[E 260706 12:30:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:30:10 smartConnect:124] in pool
+[E 260706 12:30:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:30:20 smartConnect:124] in pool
+[E 260706 12:30:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:30:35 smartConnect:124] in pool
+[E 260706 12:30:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:30:45 smartConnect:124] in pool
+[E 260706 12:30:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:31:00 smartConnect:124] in pool
+[E 260706 12:31:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:31:10 smartConnect:124] in pool
+[E 260706 12:31:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:31:25 smartConnect:124] in pool
+[E 260706 12:31:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:31:35 smartConnect:124] in pool
+[E 260706 12:31:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:31:45 smartConnect:124] in pool
+[E 260706 12:31:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:32:00 smartConnect:124] in pool
+[E 260706 12:32:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:32:10 smartConnect:124] in pool
+[E 260706 12:32:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:32:25 smartConnect:124] in pool
+[E 260706 12:32:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:32:35 smartConnect:124] in pool
+[I 260706 12:32:45 smartConnect:124] in pool
+[E 260706 12:32:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[E 260706 12:33:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:33:10 smartConnect:124] in pool
+[E 260706 12:33:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:33:25 smartConnect:124] in pool
+[E 260706 12:33:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:33:35 smartConnect:124] in pool
+[E 260706 12:33:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:33:45 smartConnect:124] in pool
+[E 260706 12:33:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:34:00 smartConnect:124] in pool
+[E 260706 12:34:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:34:10 smartConnect:124] in pool
+[E 260706 12:34:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:34:25 smartConnect:124] in pool
+[E 260706 12:34:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:34:35 smartConnect:124] in pool
+[E 260706 12:34:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:34:50 smartConnect:124] in pool
+[E 260706 12:34:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:35:00 smartConnect:124] in pool
+[E 260706 12:35:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:35:15 smartConnect:124] in pool
+[E 260706 12:35:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:35:35 smartConnect:124] in pool
+[E 260706 12:35:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:35:50 smartConnect:124] in pool
+[E 260706 12:35:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:36:00 smartConnect:124] in pool
+[E 260706 12:36:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:36:10 smartConnect:124] in pool
+[E 260706 12:36:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:36:25 smartConnect:124] in pool
+[E 260706 12:36:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:36:35 smartConnect:124] in pool
+[E 260706 12:36:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:36:50 smartConnect:124] in pool
+[E 260706 12:36:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:37:00 smartConnect:124] in pool
+[E 260706 12:37:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:37:15 smartConnect:124] in pool
+[E 260706 12:37:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:37:25 smartConnect:124] in pool
+[E 260706 12:37:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:37:35 smartConnect:124] in pool
+[E 260706 12:37:47 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:37:50 smartConnect:124] in pool
+[E 260706 12:37:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:38:00 smartConnect:124] in pool
+[E 260706 12:38:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:38:15 smartConnect:124] in pool
+[E 260706 12:38:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:38:25 smartConnect:124] in pool
+[E 260706 12:38:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:38:40 smartConnect:124] in pool
+[E 260706 12:38:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:38:50 smartConnect:124] in pool
+[E 260706 12:39:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:39:05 smartConnect:124] in pool
+[E 260706 12:39:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:39:15 smartConnect:124] in pool
+[E 260706 12:39:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:39:30 smartConnect:124] in pool
+[E 260706 12:39:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:39:40 smartConnect:124] in pool
+[E 260706 12:39:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:39:50 smartConnect:124] in pool
+[E 260706 12:40:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:40:05 smartConnect:124] in pool
+[E 260706 12:40:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:40:20 smartConnect:124] in pool
+[E 260706 12:40:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:40:30 smartConnect:124] in pool
+[E 260706 12:40:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:40:40 smartConnect:124] in pool
+[E 260706 12:40:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:40:55 smartConnect:124] in pool
+[E 260706 12:41:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:41:05 smartConnect:124] in pool
+[E 260706 12:41:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:41:21 smartConnect:124] in pool
+[E 260706 12:41:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:41:41 smartConnect:124] in pool
+[E 260706 12:41:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:41:51 smartConnect:124] in pool
+[E 260706 12:42:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:42:06 smartConnect:124] in pool
+[E 260706 12:42:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:42:23 smartConnect:124] in pool
+[E 260706 12:42:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:42:35 smartConnect:124] in pool
+[E 260706 12:42:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:42:47 smartConnect:124] in pool
+[E 260706 12:42:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:42:50 smartConnect:124] in pool
+[E 260706 12:43:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:43:10 smartConnect:124] in pool
+[E 260706 12:43:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:43:21 smartConnect:124] in pool
+[E 260706 12:43:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:43:33 smartConnect:124] in pool
+[E 260706 12:43:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:43:45 smartConnect:124] in pool
+[E 260706 12:43:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:43:50 smartConnect:124] in pool
+[E 260706 12:43:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:44:08 smartConnect:124] in pool
+[E 260706 12:44:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:44:19 smartConnect:124] in pool
+[E 260706 12:44:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:44:31 smartConnect:124] in pool
+[E 260706 12:44:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:44:42 smartConnect:124] in pool
+[E 260706 12:44:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:44:50 smartConnect:124] in pool
+[E 260706 12:44:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:45:00 smartConnect:124] in pool
+[E 260706 12:45:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:45:10 smartConnect:124] in pool
+[E 260706 12:45:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:45:25 smartConnect:124] in pool
+[E 260706 12:45:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:45:35 smartConnect:124] in pool
+[E 260706 12:45:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:45:45 smartConnect:124] in pool
+[E 260706 12:45:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:46:00 smartConnect:124] in pool
+[E 260706 12:46:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:46:10 smartConnect:124] in pool
+[E 260706 12:46:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:46:25 smartConnect:124] in pool
+[E 260706 12:46:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:46:35 smartConnect:124] in pool
+[E 260706 12:46:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:46:50 smartConnect:124] in pool
+[E 260706 12:46:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:47:00 smartConnect:124] in pool
+[E 260706 12:47:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:47:10 smartConnect:124] in pool
+[E 260706 12:47:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:47:25 smartConnect:124] in pool
+[E 260706 12:47:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:47:35 smartConnect:124] in pool
+[E 260706 12:47:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:47:50 smartConnect:124] in pool
+[E 260706 12:47:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:48:00 smartConnect:124] in pool
+[E 260706 12:48:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:48:10 smartConnect:124] in pool
+[E 260706 12:48:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:48:25 smartConnect:124] in pool
+[E 260706 12:48:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:48:35 smartConnect:124] in pool
+[E 260706 12:48:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:48:50 smartConnect:124] in pool
+[E 260706 12:48:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:49:00 smartConnect:124] in pool
+[E 260706 12:49:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:49:10 smartConnect:124] in pool
+[E 260706 12:49:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:49:25 smartConnect:124] in pool
+[E 260706 12:49:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:49:35 smartConnect:124] in pool
+[E 260706 12:49:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:49:45 smartConnect:124] in pool
+[E 260706 12:49:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:50:00 smartConnect:124] in pool
+[E 260706 12:50:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:50:10 smartConnect:124] in pool
+[E 260706 12:50:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:50:25 smartConnect:124] in pool
+[E 260706 12:50:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:50:35 smartConnect:124] in pool
+[E 260706 12:50:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:50:45 smartConnect:124] in pool
+[E 260706 12:50:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:51:00 smartConnect:124] in pool
+[E 260706 12:51:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:51:10 smartConnect:124] in pool
+[E 260706 12:51:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:51:25 smartConnect:124] in pool
+[E 260706 12:51:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:51:35 smartConnect:124] in pool
+[E 260706 12:51:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:51:45 smartConnect:124] in pool
+[E 260706 12:51:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:52:00 smartConnect:124] in pool
+[E 260706 12:52:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:52:10 smartConnect:124] in pool
+[E 260706 12:52:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:52:25 smartConnect:124] in pool
+[E 260706 12:52:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:52:35 smartConnect:124] in pool
+[E 260706 12:52:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:52:45 smartConnect:124] in pool
+[E 260706 12:52:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:53:00 smartConnect:124] in pool
+[E 260706 12:53:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:53:10 smartConnect:124] in pool
+[E 260706 12:53:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[E 260706 12:53:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:53:25 smartConnect:124] in pool
+[E 260706 12:53:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:53:45 smartConnect:124] in pool
+[E 260706 12:53:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:53:55 smartConnect:124] in pool
+[E 260706 12:54:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:54:10 smartConnect:124] in pool
+[E 260706 12:54:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:54:20 smartConnect:124] in pool
+[E 260706 12:54:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:54:35 smartConnect:124] in pool
+[E 260706 12:54:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:54:45 smartConnect:124] in pool
+[E 260706 12:54:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:54:55 smartConnect:124] in pool
+[E 260706 12:55:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:55:10 smartConnect:124] in pool
+[E 260706 12:55:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:55:20 smartConnect:124] in pool
+[E 260706 12:55:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:55:35 smartConnect:124] in pool
+[E 260706 12:55:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:55:45 smartConnect:124] in pool
+[E 260706 12:55:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:55:55 smartConnect:124] in pool
+[E 260706 12:56:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:56:10 smartConnect:124] in pool
+[E 260706 12:56:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:56:20 smartConnect:124] in pool
+[E 260706 12:56:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:56:35 smartConnect:124] in pool
+[E 260706 12:56:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:56:45 smartConnect:124] in pool
+[E 260706 12:56:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:56:55 smartConnect:124] in pool
+[E 260706 12:57:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:57:10 smartConnect:124] in pool
+[E 260706 12:57:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:57:20 smartConnect:124] in pool
+[E 260706 12:57:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:57:35 smartConnect:124] in pool
+[E 260706 12:57:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:57:45 smartConnect:124] in pool
+[E 260706 12:57:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:57:55 smartConnect:124] in pool
+[E 260706 12:58:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:58:10 smartConnect:124] in pool
+[E 260706 12:58:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:58:20 smartConnect:124] in pool
+[E 260706 12:58:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:58:35 smartConnect:124] in pool
+[E 260706 12:58:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:58:45 smartConnect:124] in pool
+[E 260706 12:58:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:58:56 smartConnect:124] in pool
+[E 260706 12:59:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:59:14 smartConnect:124] in pool
+[E 260706 12:59:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:59:27 smartConnect:124] in pool
+[E 260706 12:59:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 12:59:52 smartConnect:124] in pool
+[E 260706 13:00:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:00:14 smartConnect:124] in pool
+[E 260706 13:00:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:00:26 smartConnect:124] in pool
+[E 260706 13:00:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:00:38 smartConnect:124] in pool
+[E 260706 13:00:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:00:41 smartConnect:124] in pool
+[E 260706 13:01:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:01:12 smartConnect:124] in pool
+[E 260706 13:01:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:01:24 smartConnect:124] in pool
+[E 260706 13:01:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:01:35 smartConnect:124] in pool
+[E 260706 13:01:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:01:47 smartConnect:124] in pool
+[E 260706 13:01:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:01:50 smartConnect:124] in pool
+[E 260706 13:02:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:02:10 smartConnect:124] in pool
+[E 260706 13:02:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:02:21 smartConnect:124] in pool
+[E 260706 13:02:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:02:33 smartConnect:124] in pool
+[E 260706 13:02:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:02:44 smartConnect:124] in pool
+[E 260706 13:02:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:02:50 smartConnect:124] in pool
+[E 260706 13:02:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:03:09 smartConnect:124] in pool
+[E 260706 13:03:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:03:20 smartConnect:124] in pool
+[E 260706 13:03:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:03:32 smartConnect:124] in pool
+[E 260706 13:03:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:03:44 smartConnect:124] in pool
+[E 260706 13:03:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:03:50 smartConnect:124] in pool
+[E 260706 13:03:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:04:07 smartConnect:124] in pool
+[E 260706 13:04:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:04:20 smartConnect:124] in pool
+[E 260706 13:04:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:04:32 smartConnect:124] in pool
+[E 260706 13:04:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:04:44 smartConnect:124] in pool
+[E 260706 13:04:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:04:50 smartConnect:124] in pool
+[E 260706 13:04:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:05:07 smartConnect:124] in pool
+[E 260706 13:05:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:05:18 smartConnect:124] in pool
+[E 260706 13:05:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:05:30 smartConnect:124] in pool
+[E 260706 13:05:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:05:41 smartConnect:124] in pool
+[E 260706 13:05:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:05:50 smartConnect:124] in pool
+[E 260706 13:05:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:06:05 smartConnect:124] in pool
+[E 260706 13:06:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:06:17 smartConnect:124] in pool
+[E 260706 13:06:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:06:28 smartConnect:124] in pool
+[E 260706 13:06:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:06:40 smartConnect:124] in pool
+[E 260706 13:06:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:06:50 smartConnect:124] in pool
+[E 260706 13:06:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:07:03 smartConnect:124] in pool
+[E 260706 13:07:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:07:15 smartConnect:124] in pool
+[E 260706 13:07:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:07:26 smartConnect:124] in pool
+[E 260706 13:07:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:07:37 smartConnect:124] in pool
+[E 260706 13:07:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:07:49 smartConnect:124] in pool
+[E 260706 13:07:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:08:01 smartConnect:124] in pool
+[E 260706 13:08:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:08:12 smartConnect:124] in pool
+[E 260706 13:08:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:08:24 smartConnect:124] in pool
+[E 260706 13:08:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:08:35 smartConnect:124] in pool
+[E 260706 13:08:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:08:47 smartConnect:124] in pool
+[E 260706 13:08:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:08:50 smartConnect:124] in pool
+[E 260706 13:09:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:09:10 smartConnect:124] in pool
+[E 260706 13:09:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:09:21 smartConnect:124] in pool
+[E 260706 13:09:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:09:33 smartConnect:124] in pool
+[E 260706 13:09:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:09:44 smartConnect:124] in pool
+[E 260706 13:09:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:09:50 smartConnect:124] in pool
+[E 260706 13:09:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:10:07 smartConnect:124] in pool
+[E 260706 13:10:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:10:19 smartConnect:124] in pool
+[E 260706 13:10:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:10:30 smartConnect:124] in pool
+[E 260706 13:10:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:10:42 smartConnect:124] in pool
+[E 260706 13:10:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:10:50 smartConnect:124] in pool
+[E 260706 13:10:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:11:05 smartConnect:124] in pool
+[E 260706 13:11:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:11:17 smartConnect:124] in pool
+[E 260706 13:11:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:11:28 smartConnect:124] in pool
+[E 260706 13:11:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:11:40 smartConnect:124] in pool
+[E 260706 13:11:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:11:50 smartConnect:124] in pool
+[E 260706 13:11:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:12:05 smartConnect:124] in pool
+[E 260706 13:12:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:12:17 smartConnect:124] in pool
+[E 260706 13:12:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:12:29 smartConnect:124] in pool
+[E 260706 13:12:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:12:40 smartConnect:124] in pool
+[E 260706 13:12:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:12:50 smartConnect:124] in pool
+[E 260706 13:12:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:13:04 smartConnect:124] in pool
+[E 260706 13:13:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:13:16 smartConnect:124] in pool
+[E 260706 13:13:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:13:28 smartConnect:124] in pool
+[E 260706 13:13:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:13:40 smartConnect:124] in pool
+[E 260706 13:13:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:13:50 smartConnect:124] in pool
+[E 260706 13:13:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:14:05 smartConnect:124] in pool
+[E 260706 13:14:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:14:17 smartConnect:124] in pool
+[E 260706 13:14:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:14:29 smartConnect:124] in pool
+[E 260706 13:14:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:14:41 smartConnect:124] in pool
+[E 260706 13:14:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:14:50 smartConnect:124] in pool
+[E 260706 13:14:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:15:04 smartConnect:124] in pool
+[E 260706 13:15:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:15:17 smartConnect:124] in pool
+[E 260706 13:15:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:15:29 smartConnect:124] in pool
+[E 260706 13:15:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:15:40 smartConnect:124] in pool
+[E 260706 13:15:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:15:50 smartConnect:124] in pool
+[E 260706 13:15:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:16:04 smartConnect:124] in pool
+[E 260706 13:16:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:16:16 smartConnect:124] in pool
+[E 260706 13:16:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:16:27 smartConnect:124] in pool
+[E 260706 13:16:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:16:39 smartConnect:124] in pool
+[E 260706 13:16:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:16:50 smartConnect:124] in pool
+[E 260706 13:16:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:17:03 smartConnect:124] in pool
+[E 260706 13:17:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:17:14 smartConnect:124] in pool
+[E 260706 13:17:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:17:26 smartConnect:124] in pool
+[E 260706 13:17:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:17:37 smartConnect:124] in pool
+[E 260706 13:17:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:17:49 smartConnect:124] in pool
+[E 260706 13:17:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:18:02 smartConnect:124] in pool
+[E 260706 13:18:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:18:14 smartConnect:124] in pool
+[E 260706 13:18:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:18:26 smartConnect:124] in pool
+[E 260706 13:18:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:18:38 smartConnect:124] in pool
+[E 260706 13:18:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:18:50 smartConnect:124] in pool
+[E 260706 13:18:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:19:02 smartConnect:124] in pool
+[E 260706 13:19:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:19:14 smartConnect:124] in pool
+[E 260706 13:19:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:19:25 smartConnect:124] in pool
+[E 260706 13:19:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:19:37 smartConnect:124] in pool
+[E 260706 13:19:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:19:48 smartConnect:124] in pool
+[E 260706 13:19:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:20:00 smartConnect:124] in pool
+[E 260706 13:20:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:20:12 smartConnect:124] in pool
+[E 260706 13:20:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:20:23 smartConnect:124] in pool
+[E 260706 13:20:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:20:35 smartConnect:124] in pool
+[E 260706 13:20:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:20:47 smartConnect:124] in pool
+[E 260706 13:20:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:20:50 smartConnect:124] in pool
+[E 260706 13:21:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:21:11 smartConnect:124] in pool
+[E 260706 13:21:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:21:23 smartConnect:124] in pool
+[E 260706 13:21:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:21:35 smartConnect:124] in pool
+[E 260706 13:21:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:21:47 smartConnect:124] in pool
+[E 260706 13:21:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:22:00 smartConnect:124] in pool
+[E 260706 13:22:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:22:12 smartConnect:124] in pool
+[E 260706 13:22:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:22:24 smartConnect:124] in pool
+[E 260706 13:22:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:22:36 smartConnect:124] in pool
+[E 260706 13:22:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:22:47 smartConnect:124] in pool
+[E 260706 13:22:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:22:50 smartConnect:124] in pool
+[E 260706 13:23:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:23:11 smartConnect:124] in pool
+[E 260706 13:23:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:23:23 smartConnect:124] in pool
+[E 260706 13:23:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:23:35 smartConnect:124] in pool
+[E 260706 13:23:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:23:46 smartConnect:124] in pool
+[E 260706 13:23:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:23:50 smartConnect:124] in pool
+[E 260706 13:24:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:24:11 smartConnect:124] in pool
+[E 260706 13:24:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:24:23 smartConnect:124] in pool
+[E 260706 13:24:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:24:35 smartConnect:124] in pool
+[E 260706 13:24:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:24:47 smartConnect:124] in pool
+[E 260706 13:24:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:24:50 smartConnect:124] in pool
+[E 260706 13:25:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:25:11 smartConnect:124] in pool
+[E 260706 13:25:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:25:23 smartConnect:124] in pool
+[E 260706 13:25:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:25:34 smartConnect:124] in pool
+[E 260706 13:25:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:25:46 smartConnect:124] in pool
+[E 260706 13:25:47 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:25:50 smartConnect:124] in pool
+[E 260706 13:26:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:26:01 smartConnect:124] in pool
+[E 260706 13:26:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:26:14 smartConnect:124] in pool
+[E 260706 13:26:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:26:26 smartConnect:124] in pool
+[E 260706 13:26:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:26:41 smartConnect:124] in pool
+[E 260706 13:26:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:26:51 smartConnect:124] in pool
+[E 260706 13:27:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:27:11 smartConnect:124] in pool
+[E 260706 13:27:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:27:22 smartConnect:124] in pool
+[E 260706 13:27:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:27:34 smartConnect:124] in pool
+[E 260706 13:27:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:27:46 smartConnect:124] in pool
+[E 260706 13:27:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:27:50 smartConnect:124] in pool
+[E 260706 13:28:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:28:11 smartConnect:124] in pool
+[E 260706 13:28:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:28:17 smartConnect:124] in pool
+[I 260706 13:28:25 smartConnect:124] in pool
+[E 260706 13:28:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:28:41 smartConnect:124] in pool
+[E 260706 13:28:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:28:51 smartConnect:124] in pool
+[E 260706 13:29:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:29:06 smartConnect:124] in pool
+[E 260706 13:29:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:29:16 smartConnect:124] in pool
+[E 260706 13:29:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:29:37 smartConnect:124] in pool
+[E 260706 13:29:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:29:45 smartConnect:124] in pool
+[E 260706 13:29:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:29:51 smartConnect:124] in pool
+[E 260706 13:30:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:30:15 smartConnect:124] in pool
+[E 260706 13:30:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:30:30 smartConnect:124] in pool
+[E 260706 13:30:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:30:40 smartConnect:124] in pool
+[E 260706 13:30:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:30:55 smartConnect:124] in pool
+[E 260706 13:31:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:31:08 smartConnect:124] in pool
+[E 260706 13:31:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:31:21 smartConnect:124] in pool
+[E 260706 13:31:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:31:31 smartConnect:124] in pool
+[E 260706 13:31:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:31:41 smartConnect:124] in pool
+[E 260706 13:32:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:32:13 smartConnect:124] in pool
+[E 260706 13:32:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:32:24 smartConnect:124] in pool
+[E 260706 13:32:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:32:36 smartConnect:124] in pool
+[E 260706 13:32:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:32:47 smartConnect:124] in pool
+[E 260706 13:32:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:32:50 smartConnect:124] in pool
+[E 260706 13:33:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:33:11 smartConnect:124] in pool
+[E 260706 13:33:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:33:23 smartConnect:124] in pool
+[E 260706 13:33:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:33:34 smartConnect:124] in pool
+[E 260706 13:33:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:33:46 smartConnect:124] in pool
+[E 260706 13:33:47 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:33:50 smartConnect:124] in pool
+[E 260706 13:33:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:34:09 smartConnect:124] in pool
+[E 260706 13:34:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:34:21 smartConnect:124] in pool
+[E 260706 13:34:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:34:34 smartConnect:124] in pool
+[E 260706 13:34:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:34:46 smartConnect:124] in pool
+[E 260706 13:34:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:34:50 smartConnect:124] in pool
+[E 260706 13:34:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:35:09 smartConnect:124] in pool
+[E 260706 13:35:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:35:21 smartConnect:124] in pool
+[E 260706 13:35:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:35:33 smartConnect:124] in pool
+[E 260706 13:35:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:35:45 smartConnect:124] in pool
+[E 260706 13:35:47 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:35:50 smartConnect:124] in pool
+[E 260706 13:35:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:36:09 smartConnect:124] in pool
+[E 260706 13:36:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:36:21 smartConnect:124] in pool
+[E 260706 13:36:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:36:32 smartConnect:124] in pool
+[E 260706 13:36:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:36:44 smartConnect:124] in pool
+[E 260706 13:36:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:36:50 smartConnect:124] in pool
+[E 260706 13:36:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:37:08 smartConnect:124] in pool
+[E 260706 13:37:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:37:19 smartConnect:124] in pool
+[E 260706 13:37:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:37:31 smartConnect:124] in pool
+[E 260706 13:37:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:37:42 smartConnect:124] in pool
+[E 260706 13:37:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:37:50 smartConnect:124] in pool
+[E 260706 13:37:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:38:06 smartConnect:124] in pool
+[E 260706 13:38:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:38:19 smartConnect:124] in pool
+[E 260706 13:38:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:38:31 smartConnect:124] in pool
+[E 260706 13:38:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:38:42 smartConnect:124] in pool
+[E 260706 13:38:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:38:50 smartConnect:124] in pool
+[E 260706 13:38:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:39:06 smartConnect:124] in pool
+[E 260706 13:39:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:39:18 smartConnect:124] in pool
+[E 260706 13:39:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:39:30 smartConnect:124] in pool
+[E 260706 13:39:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:39:41 smartConnect:124] in pool
+[E 260706 13:39:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:39:50 smartConnect:124] in pool
+[E 260706 13:39:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:40:04 smartConnect:124] in pool
+[E 260706 13:40:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:40:16 smartConnect:124] in pool
+[E 260706 13:40:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:40:27 smartConnect:124] in pool
+[E 260706 13:40:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:40:40 smartConnect:124] in pool
+[E 260706 13:40:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:40:51 smartConnect:124] in pool
+[E 260706 13:41:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:41:16 smartConnect:124] in pool
+[E 260706 13:41:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:41:28 smartConnect:124] in pool
+[E 260706 13:41:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:41:39 smartConnect:124] in pool
+[E 260706 13:41:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:41:50 smartConnect:124] in pool
+[E 260706 13:41:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:42:02 smartConnect:124] in pool
+[E 260706 13:42:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:42:14 smartConnect:124] in pool
+[E 260706 13:42:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:42:25 smartConnect:124] in pool
+[E 260706 13:42:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:42:39 smartConnect:124] in pool
+[E 260706 13:42:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:42:50 smartConnect:124] in pool
+[E 260706 13:42:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:43:04 smartConnect:124] in pool
+[E 260706 13:43:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:43:15 smartConnect:124] in pool
+[E 260706 13:43:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:43:27 smartConnect:124] in pool
+[E 260706 13:43:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:43:39 smartConnect:124] in pool
+[E 260706 13:43:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:43:50 smartConnect:124] in pool
+[E 260706 13:43:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:44:03 smartConnect:124] in pool
+[E 260706 13:44:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:44:14 smartConnect:124] in pool
+[E 260706 13:44:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:44:26 smartConnect:124] in pool
+[E 260706 13:44:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:44:38 smartConnect:124] in pool
+[E 260706 13:44:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:44:49 smartConnect:124] in pool
+[E 260706 13:44:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:45:01 smartConnect:124] in pool
+[E 260706 13:45:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:45:12 smartConnect:124] in pool
+[E 260706 13:45:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:45:24 smartConnect:124] in pool
+[E 260706 13:45:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:45:35 smartConnect:124] in pool
+[E 260706 13:45:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:45:47 smartConnect:124] in pool
+[E 260706 13:45:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:45:50 smartConnect:124] in pool
+[E 260706 13:46:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:46:05 smartConnect:124] in pool
+[E 260706 13:46:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:46:15 smartConnect:124] in pool
+[E 260706 13:46:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:46:25 smartConnect:124] in pool
+[E 260706 13:46:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:46:41 smartConnect:124] in pool
+[E 260706 13:46:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:46:51 smartConnect:124] in pool
+[E 260706 13:47:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:47:01 smartConnect:124] in pool
+[E 260706 13:47:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:47:16 smartConnect:124] in pool
+[E 260706 13:47:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:47:26 smartConnect:124] in pool
+[E 260706 13:47:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:47:36 smartConnect:124] in pool
+[E 260706 13:47:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:47:50 smartConnect:124] in pool
+[E 260706 13:47:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:48:07 smartConnect:124] in pool
+[E 260706 13:48:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:48:10 smartConnect:124] in pool
+[E 260706 13:48:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:48:23 smartConnect:124] in pool
+[E 260706 13:48:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:48:38 smartConnect:124] in pool
+[E 260706 13:48:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:48:58 smartConnect:124] in pool
+[E 260706 13:49:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:49:23 smartConnect:124] in pool
+[E 260706 13:49:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:49:33 smartConnect:124] in pool
+[E 260706 13:49:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:49:48 smartConnect:124] in pool
+[E 260706 13:49:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:49:58 smartConnect:124] in pool
+[E 260706 13:50:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:50:13 smartConnect:124] in pool
+[E 260706 13:50:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:50:25 smartConnect:124] in pool
+[E 260706 13:50:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:50:53 smartConnect:124] in pool
+[E 260706 13:51:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:51:01 smartConnect:124] in pool
+[E 260706 13:51:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:51:19 smartConnect:124] in pool
+[E 260706 13:51:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:51:42 smartConnect:124] in pool
+[E 260706 13:51:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:51:59 smartConnect:124] in pool
+[E 260706 13:52:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:52:09 smartConnect:124] in pool
+[E 260706 13:52:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:52:30 smartConnect:124] in pool
+[E 260706 13:52:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:52:41 smartConnect:124] in pool
+[E 260706 13:52:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:52:50 smartConnect:124] in pool
+[E 260706 13:52:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:53:05 smartConnect:124] in pool
+[E 260706 13:53:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:53:16 smartConnect:124] in pool
+[E 260706 13:53:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:53:28 smartConnect:124] in pool
+[E 260706 13:53:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:53:39 smartConnect:124] in pool
+[E 260706 13:53:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:53:50 smartConnect:124] in pool
+[E 260706 13:53:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:54:04 smartConnect:124] in pool
+[E 260706 13:54:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:54:18 smartConnect:124] in pool
+[E 260706 13:54:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:54:29 smartConnect:124] in pool
+[E 260706 13:54:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:54:41 smartConnect:124] in pool
+[E 260706 13:54:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:54:50 smartConnect:124] in pool
+[E 260706 13:54:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:55:05 smartConnect:124] in pool
+[E 260706 13:55:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:55:17 smartConnect:124] in pool
+[E 260706 13:55:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:55:28 smartConnect:124] in pool
+[E 260706 13:55:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:55:40 smartConnect:124] in pool
+[E 260706 13:55:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:55:50 smartConnect:124] in pool
+[E 260706 13:55:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:56:03 smartConnect:124] in pool
+[E 260706 13:56:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:56:12 smartConnect:124] in pool
+[E 260706 13:56:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:56:30 smartConnect:124] in pool
+[E 260706 13:56:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:56:45 smartConnect:124] in pool
+[E 260706 13:56:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:56:55 smartConnect:124] in pool
+[E 260706 13:57:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:57:11 smartConnect:124] in pool
+[E 260706 13:57:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:57:21 smartConnect:124] in pool
+[E 260706 13:57:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:57:31 smartConnect:124] in pool
+[E 260706 13:57:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:57:41 smartConnect:124] in pool
+[E 260706 13:57:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:57:56 smartConnect:124] in pool
+[E 260706 13:58:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:58:06 smartConnect:124] in pool
+[E 260706 13:58:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:58:26 smartConnect:124] in pool
+[E 260706 13:58:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:58:37 smartConnect:124] in pool
+[E 260706 13:58:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:58:49 smartConnect:124] in pool
+[E 260706 13:58:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:59:01 smartConnect:124] in pool
+[E 260706 13:59:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:59:12 smartConnect:124] in pool
+[E 260706 13:59:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:59:24 smartConnect:124] in pool
+[E 260706 13:59:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:59:36 smartConnect:124] in pool
+[E 260706 13:59:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:59:47 smartConnect:124] in pool
+[E 260706 13:59:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 13:59:50 smartConnect:124] in pool
+[E 260706 14:00:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:00:11 smartConnect:124] in pool
+[E 260706 14:00:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:00:26 smartConnect:124] in pool
+[E 260706 14:00:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:00:37 smartConnect:124] in pool
+[E 260706 14:00:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:00:50 smartConnect:124] in pool
+[E 260706 14:00:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:00:55 smartConnect:124] in pool
+[E 260706 14:01:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:01:05 smartConnect:124] in pool
+[E 260706 14:01:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:01:20 smartConnect:124] in pool
+[E 260706 14:01:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:01:30 smartConnect:124] in pool
+[E 260706 14:01:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:01:41 smartConnect:124] in pool
+[E 260706 14:01:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:01:56 smartConnect:124] in pool
+[E 260706 14:02:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:02:06 smartConnect:124] in pool
+[E 260706 14:02:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:02:21 smartConnect:124] in pool
+[E 260706 14:02:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:02:31 smartConnect:124] in pool
+[E 260706 14:02:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:02:50 smartConnect:124] in pool
+[E 260706 14:03:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:03:13 smartConnect:124] in pool
+[E 260706 14:03:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:03:24 smartConnect:124] in pool
+[E 260706 14:03:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:03:36 smartConnect:124] in pool
+[E 260706 14:03:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:03:49 smartConnect:124] in pool
+[E 260706 14:03:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:03:52 smartConnect:124] in pool
+[E 260706 14:04:13 smartConnect:221] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/auth/angelbroking/user/v1/loginByPassword. Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '24:fd:52:e2:84:d1', 'Accept': 'application/json', 'X-PrivateKey': 'pBBfHTNf', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'clientcode': 'MAEL1045', 'password': '2911', 'totp': '768311'}, Response: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+[E 260706 14:04:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:04:49 smartConnect:124] in pool
+[E 260706 14:05:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:05:16 smartConnect:124] in pool
+[E 260706 14:05:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:05:28 smartConnect:124] in pool
+[E 260706 14:05:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:05:40 smartConnect:124] in pool
+[E 260706 14:05:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:05:50 smartConnect:124] in pool
+[E 260706 14:05:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:06:04 smartConnect:124] in pool
+[E 260706 14:06:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:06:16 smartConnect:124] in pool
+[E 260706 14:06:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:06:28 smartConnect:124] in pool
+[E 260706 14:06:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:06:40 smartConnect:124] in pool
+[E 260706 14:06:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:06:50 smartConnect:124] in pool
+[E 260706 14:06:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:07:05 smartConnect:124] in pool
+[E 260706 14:07:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:07:17 smartConnect:124] in pool
+[E 260706 14:07:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:07:29 smartConnect:124] in pool
+[E 260706 14:07:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:07:40 smartConnect:124] in pool
+[E 260706 14:07:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:07:50 smartConnect:124] in pool
+[E 260706 14:07:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:08:04 smartConnect:124] in pool
+[E 260706 14:08:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:08:17 smartConnect:124] in pool
+[E 260706 14:08:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:08:28 smartConnect:124] in pool
+[E 260706 14:08:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:08:40 smartConnect:124] in pool
+[E 260706 14:08:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:08:50 smartConnect:124] in pool
+[E 260706 14:08:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:09:06 smartConnect:124] in pool
+[E 260706 14:09:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:09:20 smartConnect:124] in pool
+[E 260706 14:09:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:09:32 smartConnect:124] in pool
+[E 260706 14:09:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:09:44 smartConnect:124] in pool
+[E 260706 14:09:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:09:50 smartConnect:124] in pool
+[E 260706 14:09:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:10:08 smartConnect:124] in pool
+[E 260706 14:10:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:10:21 smartConnect:124] in pool
+[E 260706 14:10:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:10:34 smartConnect:124] in pool
+[E 260706 14:10:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:10:46 smartConnect:124] in pool
+[E 260706 14:10:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:10:50 smartConnect:124] in pool
+[E 260706 14:11:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:11:11 smartConnect:124] in pool
+[E 260706 14:11:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:11:23 smartConnect:124] in pool
+[E 260706 14:11:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:11:35 smartConnect:124] in pool
+[E 260706 14:11:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:11:47 smartConnect:124] in pool
+[E 260706 14:11:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:11:50 smartConnect:124] in pool
+[E 260706 14:12:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:12:10 smartConnect:124] in pool
+[E 260706 14:12:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:12:22 smartConnect:124] in pool
+[E 260706 14:12:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:12:34 smartConnect:124] in pool
+[E 260706 14:12:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:12:46 smartConnect:124] in pool
+[E 260706 14:12:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:12:50 smartConnect:124] in pool
+[E 260706 14:13:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:13:12 smartConnect:124] in pool
+[E 260706 14:13:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:13:24 smartConnect:124] in pool
+[E 260706 14:13:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:13:36 smartConnect:124] in pool
+[E 260706 14:13:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:13:49 smartConnect:124] in pool
+[E 260706 14:13:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:13:55 smartConnect:124] in pool
+[E 260706 14:14:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:14:05 smartConnect:124] in pool
+[E 260706 14:14:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:14:20 smartConnect:124] in pool
+[E 260706 14:14:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:14:30 smartConnect:124] in pool
+[E 260706 14:14:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:14:45 smartConnect:124] in pool
+[E 260706 14:14:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:14:55 smartConnect:124] in pool
+[E 260706 14:15:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:15:10 smartConnect:124] in pool
+[E 260706 14:15:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:15:30 smartConnect:124] in pool
+[E 260706 14:15:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:15:45 smartConnect:124] in pool
+[E 260706 14:16:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:16:05 smartConnect:124] in pool
+[E 260706 14:16:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:16:20 smartConnect:124] in pool
+[E 260706 14:16:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:16:30 smartConnect:124] in pool
+[E 260706 14:16:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:16:40 smartConnect:124] in pool
+[E 260706 14:16:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:16:55 smartConnect:124] in pool
+[E 260706 14:17:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:17:05 smartConnect:124] in pool
+[E 260706 14:17:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:17:20 smartConnect:124] in pool
+[E 260706 14:17:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:17:30 smartConnect:124] in pool
+[E 260706 14:17:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:17:40 smartConnect:124] in pool
+[E 260706 14:17:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:17:55 smartConnect:124] in pool
+[E 260706 14:18:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:18:05 smartConnect:124] in pool
+[E 260706 14:18:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:18:20 smartConnect:124] in pool
+[E 260706 14:18:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:18:30 smartConnect:124] in pool
+[E 260706 14:18:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:18:40 smartConnect:124] in pool
+[E 260706 14:18:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:18:55 smartConnect:124] in pool
+[E 260706 14:19:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:19:05 smartConnect:124] in pool
+[E 260706 14:19:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:19:20 smartConnect:124] in pool
+[E 260706 14:19:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:19:40 smartConnect:124] in pool
+[E 260706 14:19:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:19:55 smartConnect:124] in pool
+[E 260706 14:20:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:20:15 smartConnect:124] in pool
+[E 260706 14:20:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:20:30 smartConnect:124] in pool
+[E 260706 14:20:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:20:50 smartConnect:124] in pool
+[E 260706 14:21:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:21:05 smartConnect:124] in pool
+[E 260706 14:21:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:21:25 smartConnect:124] in pool
+[E 260706 14:21:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:21:40 smartConnect:124] in pool
+[E 260706 14:21:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:22:00 smartConnect:124] in pool
+[E 260706 14:22:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:22:15 smartConnect:124] in pool
+[E 260706 14:22:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:22:35 smartConnect:124] in pool
+[E 260706 14:22:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:22:50 smartConnect:124] in pool
+[E 260706 14:23:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:23:10 smartConnect:124] in pool
+[E 260706 14:23:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:23:25 smartConnect:124] in pool
+[E 260706 14:23:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:23:45 smartConnect:124] in pool
+[E 260706 14:23:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:24:00 smartConnect:124] in pool
+[E 260706 14:24:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:24:20 smartConnect:124] in pool
+[E 260706 14:24:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:24:30 smartConnect:124] in pool
+[E 260706 14:24:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:24:46 smartConnect:124] in pool
+[E 260706 14:24:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:24:56 smartConnect:124] in pool
+[E 260706 14:25:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:25:06 smartConnect:124] in pool
+[E 260706 14:25:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:25:21 smartConnect:124] in pool
+[E 260706 14:25:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:25:49 smartConnect:124] in pool
+[E 260706 14:25:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:26:01 smartConnect:124] in pool
+[E 260706 14:26:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:26:12 smartConnect:124] in pool
+[E 260706 14:26:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:26:24 smartConnect:124] in pool
+[E 260706 14:26:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:26:35 smartConnect:124] in pool
+[E 260706 14:26:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:26:47 smartConnect:124] in pool
+[E 260706 14:26:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:26:50 smartConnect:124] in pool
+[E 260706 14:27:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:27:10 smartConnect:124] in pool
+[E 260706 14:27:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:27:21 smartConnect:124] in pool
+[E 260706 14:27:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:27:33 smartConnect:124] in pool
+[E 260706 14:27:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:27:44 smartConnect:124] in pool
+[E 260706 14:27:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:27:50 smartConnect:124] in pool
+[E 260706 14:27:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:28:08 smartConnect:124] in pool
+[E 260706 14:28:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:28:19 smartConnect:124] in pool
+[E 260706 14:28:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:28:31 smartConnect:124] in pool
+[E 260706 14:28:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:28:42 smartConnect:124] in pool
+[E 260706 14:28:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:28:50 smartConnect:124] in pool
+[E 260706 14:28:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:29:06 smartConnect:124] in pool
+[E 260706 14:29:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:29:17 smartConnect:124] in pool
+[E 260706 14:29:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:29:29 smartConnect:124] in pool
+[E 260706 14:29:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:29:40 smartConnect:124] in pool
+[E 260706 14:29:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:29:50 smartConnect:124] in pool
+[E 260706 14:29:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:30:03 smartConnect:124] in pool
+[E 260706 14:30:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:30:15 smartConnect:124] in pool
+[E 260706 14:30:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:30:26 smartConnect:124] in pool
+[E 260706 14:30:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:30:38 smartConnect:124] in pool
+[E 260706 14:30:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:30:50 smartConnect:124] in pool
+[E 260706 14:31:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:31:12 smartConnect:124] in pool
+[E 260706 14:31:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:31:24 smartConnect:124] in pool
+[E 260706 14:31:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:31:35 smartConnect:124] in pool
+[E 260706 14:31:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:31:47 smartConnect:124] in pool
+[E 260706 14:31:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:31:50 smartConnect:124] in pool
+[E 260706 14:32:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:32:10 smartConnect:124] in pool
+[E 260706 14:32:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:32:22 smartConnect:124] in pool
+[E 260706 14:32:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:32:33 smartConnect:124] in pool
+[E 260706 14:32:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:32:45 smartConnect:124] in pool
+[E 260706 14:32:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:32:50 smartConnect:124] in pool
+[E 260706 14:32:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:33:08 smartConnect:124] in pool
+[E 260706 14:33:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:33:19 smartConnect:124] in pool
+[E 260706 14:33:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:33:31 smartConnect:124] in pool
+[E 260706 14:33:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:33:43 smartConnect:124] in pool
+[E 260706 14:33:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:33:50 smartConnect:124] in pool
+[E 260706 14:33:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:34:06 smartConnect:124] in pool
+[E 260706 14:34:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:34:18 smartConnect:124] in pool
+[E 260706 14:34:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:34:29 smartConnect:124] in pool
+[E 260706 14:34:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:34:41 smartConnect:124] in pool
+[E 260706 14:34:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:34:50 smartConnect:124] in pool
+[E 260706 14:34:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:35:04 smartConnect:124] in pool
+[E 260706 14:35:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:35:16 smartConnect:124] in pool
+[E 260706 14:35:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:35:28 smartConnect:124] in pool
+[E 260706 14:35:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:35:39 smartConnect:124] in pool
+[E 260706 14:35:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:35:50 smartConnect:124] in pool
+[E 260706 14:35:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:36:03 smartConnect:124] in pool
+[E 260706 14:36:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:36:15 smartConnect:124] in pool
+[E 260706 14:36:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:36:26 smartConnect:124] in pool
+[E 260706 14:36:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:36:38 smartConnect:124] in pool
+[E 260706 14:36:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:36:49 smartConnect:124] in pool
+[E 260706 14:36:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:36:51 smartConnect:124] in pool
+[E 260706 14:37:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:37:13 smartConnect:124] in pool
+[E 260706 14:37:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:37:24 smartConnect:124] in pool
+[E 260706 14:37:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:37:36 smartConnect:124] in pool
+[E 260706 14:37:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:37:47 smartConnect:124] in pool
+[E 260706 14:37:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:37:50 smartConnect:124] in pool
+[E 260706 14:38:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:38:11 smartConnect:124] in pool
+[E 260706 14:38:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:38:22 smartConnect:124] in pool
+[E 260706 14:38:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:38:34 smartConnect:124] in pool
+[E 260706 14:38:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:38:45 smartConnect:124] in pool
+[E 260706 14:38:47 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:38:50 smartConnect:124] in pool
+[E 260706 14:38:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:39:09 smartConnect:124] in pool
+[E 260706 14:39:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:39:20 smartConnect:124] in pool
+[E 260706 14:39:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:39:32 smartConnect:124] in pool
+[E 260706 14:39:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:39:47 smartConnect:124] in pool
+[E 260706 14:39:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:39:50 smartConnect:124] in pool
+[E 260706 14:40:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:40:10 smartConnect:124] in pool
+[E 260706 14:40:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:40:22 smartConnect:124] in pool
+[E 260706 14:40:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:40:33 smartConnect:124] in pool
+[E 260706 14:40:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:40:45 smartConnect:124] in pool
+[E 260706 14:40:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:40:50 smartConnect:124] in pool
+[E 260706 14:40:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:41:08 smartConnect:124] in pool
+[E 260706 14:41:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:41:20 smartConnect:124] in pool
+[E 260706 14:41:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:41:32 smartConnect:124] in pool
+[E 260706 14:41:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:41:44 smartConnect:124] in pool
+[E 260706 14:41:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:41:50 smartConnect:124] in pool
+[E 260706 14:41:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:42:07 smartConnect:124] in pool
+[E 260706 14:42:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:42:19 smartConnect:124] in pool
+[E 260706 14:42:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:42:30 smartConnect:124] in pool
+[E 260706 14:42:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:42:42 smartConnect:124] in pool
+[E 260706 14:42:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:42:50 smartConnect:124] in pool
+[E 260706 14:42:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:43:05 smartConnect:124] in pool
+[E 260706 14:43:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:43:17 smartConnect:124] in pool
+[E 260706 14:43:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:43:28 smartConnect:124] in pool
+[E 260706 14:43:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:43:40 smartConnect:124] in pool
+[E 260706 14:43:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:43:50 smartConnect:124] in pool
+[E 260706 14:43:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:43:56 smartConnect:124] in pool
+[E 260706 14:44:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:44:10 smartConnect:124] in pool
+[E 260706 14:44:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:44:30 smartConnect:124] in pool
+[E 260706 14:44:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:44:45 smartConnect:124] in pool
+[E 260706 14:44:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:44:55 smartConnect:124] in pool
+[E 260706 14:45:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:45:11 smartConnect:124] in pool
+[E 260706 14:45:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:45:31 smartConnect:124] in pool
+[E 260706 14:45:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:45:46 smartConnect:124] in pool
+[E 260706 14:46:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:46:06 smartConnect:124] in pool
+[E 260706 14:46:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:46:26 smartConnect:124] in pool
+[E 260706 14:46:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:46:33 smartConnect:124] in pool
+[E 260706 14:46:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:46:51 smartConnect:124] in pool
+[E 260706 14:47:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:47:06 smartConnect:124] in pool
+[E 260706 14:47:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:47:16 smartConnect:124] in pool
+[E 260706 14:47:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:47:31 smartConnect:124] in pool
+[E 260706 14:47:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:47:50 smartConnect:124] in pool
+[E 260706 14:47:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:48:04 smartConnect:124] in pool
+[E 260706 14:48:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:48:16 smartConnect:124] in pool
+[E 260706 14:48:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:48:27 smartConnect:124] in pool
+[E 260706 14:48:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:48:39 smartConnect:124] in pool
+[E 260706 14:48:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:48:50 smartConnect:124] in pool
+[E 260706 14:49:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:49:13 smartConnect:124] in pool
+[E 260706 14:49:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:49:24 smartConnect:124] in pool
+[E 260706 14:49:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:49:36 smartConnect:124] in pool
+[E 260706 14:49:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:49:47 smartConnect:124] in pool
+[E 260706 14:49:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:49:50 smartConnect:124] in pool
+[E 260706 14:50:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:50:11 smartConnect:124] in pool
+[E 260706 14:50:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:50:23 smartConnect:124] in pool
+[E 260706 14:50:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:50:35 smartConnect:124] in pool
+[E 260706 14:50:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:50:47 smartConnect:124] in pool
+[E 260706 14:50:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:50:50 smartConnect:124] in pool
+[E 260706 14:51:00 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:51:10 smartConnect:124] in pool
+[E 260706 14:51:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:51:22 smartConnect:124] in pool
+[E 260706 14:51:23 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:51:33 smartConnect:124] in pool
+[E 260706 14:51:35 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:51:45 smartConnect:124] in pool
+[E 260706 14:51:47 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:51:51 smartConnect:124] in pool
+[E 260706 14:51:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:52:09 smartConnect:124] in pool
+[E 260706 14:52:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:52:21 smartConnect:124] in pool
+[E 260706 14:52:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:52:32 smartConnect:124] in pool
+[E 260706 14:52:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:52:44 smartConnect:124] in pool
+[E 260706 14:52:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:52:50 smartConnect:124] in pool
+[E 260706 14:52:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:53:07 smartConnect:124] in pool
+[E 260706 14:53:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:53:19 smartConnect:124] in pool
+[E 260706 14:53:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:53:30 smartConnect:124] in pool
+[E 260706 14:53:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:53:42 smartConnect:124] in pool
+[E 260706 14:53:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:53:50 smartConnect:124] in pool
+[E 260706 14:53:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:54:05 smartConnect:124] in pool
+[E 260706 14:54:07 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:54:17 smartConnect:124] in pool
+[E 260706 14:54:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:54:29 smartConnect:124] in pool
+[E 260706 14:54:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:54:40 smartConnect:124] in pool
+[E 260706 14:54:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:54:50 smartConnect:124] in pool
+[E 260706 14:54:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:55:03 smartConnect:124] in pool
+[E 260706 14:55:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:55:15 smartConnect:124] in pool
+[E 260706 14:55:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:55:27 smartConnect:124] in pool
+[E 260706 14:55:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:55:39 smartConnect:124] in pool
+[E 260706 14:55:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:55:50 smartConnect:124] in pool
+[E 260706 14:56:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:56:13 smartConnect:124] in pool
+[E 260706 14:56:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:56:25 smartConnect:124] in pool
+[E 260706 14:56:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:56:36 smartConnect:124] in pool
+[E 260706 14:56:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:56:48 smartConnect:124] in pool
+[E 260706 14:56:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:56:50 smartConnect:124] in pool
+[E 260706 14:57:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:57:11 smartConnect:124] in pool
+[E 260706 14:57:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:57:23 smartConnect:124] in pool
+[E 260706 14:57:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:57:36 smartConnect:124] in pool
+[E 260706 14:57:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:57:48 smartConnect:124] in pool
+[E 260706 14:57:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:58:00 smartConnect:124] in pool
+[E 260706 14:58:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:58:13 smartConnect:124] in pool
+[E 260706 14:58:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:58:25 smartConnect:124] in pool
+[E 260706 14:58:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:58:37 smartConnect:124] in pool
+[E 260706 14:58:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:58:49 smartConnect:124] in pool
+[E 260706 14:58:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:59:01 smartConnect:124] in pool
+[E 260706 14:59:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:59:13 smartConnect:124] in pool
+[E 260706 14:59:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:59:25 smartConnect:124] in pool
+[E 260706 14:59:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:59:36 smartConnect:124] in pool
+[E 260706 14:59:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:59:48 smartConnect:124] in pool
+[E 260706 14:59:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 14:59:50 smartConnect:124] in pool
+[E 260706 15:00:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:00:11 smartConnect:124] in pool
+[E 260706 15:00:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:00:22 smartConnect:124] in pool
+[E 260706 15:00:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:00:34 smartConnect:124] in pool
+[E 260706 15:00:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:00:46 smartConnect:124] in pool
+[E 260706 15:00:47 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:00:50 smartConnect:124] in pool
+[E 260706 15:00:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:01:09 smartConnect:124] in pool
+[E 260706 15:01:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:01:21 smartConnect:124] in pool
+[E 260706 15:01:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:01:32 smartConnect:124] in pool
+[E 260706 15:01:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:01:44 smartConnect:124] in pool
+[E 260706 15:01:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:01:50 smartConnect:124] in pool
+[E 260706 15:01:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:02:07 smartConnect:124] in pool
+[E 260706 15:02:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:02:19 smartConnect:124] in pool
+[E 260706 15:02:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:02:31 smartConnect:124] in pool
+[E 260706 15:02:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:02:43 smartConnect:124] in pool
+[E 260706 15:02:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:02:50 smartConnect:124] in pool
+[E 260706 15:02:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:03:09 smartConnect:124] in pool
+[E 260706 15:03:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:03:20 smartConnect:124] in pool
+[E 260706 15:03:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:03:32 smartConnect:124] in pool
+[E 260706 15:03:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:03:44 smartConnect:124] in pool
+[E 260706 15:03:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:03:50 smartConnect:124] in pool
+[E 260706 15:03:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:04:07 smartConnect:124] in pool
+[E 260706 15:04:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:04:18 smartConnect:124] in pool
+[E 260706 15:04:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:04:30 smartConnect:124] in pool
+[E 260706 15:04:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:04:41 smartConnect:124] in pool
+[E 260706 15:04:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:04:50 smartConnect:124] in pool
+[E 260706 15:04:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:05:05 smartConnect:124] in pool
+[E 260706 15:05:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:05:16 smartConnect:124] in pool
+[E 260706 15:05:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:05:28 smartConnect:124] in pool
+[E 260706 15:05:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:05:39 smartConnect:124] in pool
+[E 260706 15:05:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:05:50 smartConnect:124] in pool
+[E 260706 15:05:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:06:03 smartConnect:124] in pool
+[E 260706 15:06:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:06:15 smartConnect:124] in pool
+[E 260706 15:06:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:06:27 smartConnect:124] in pool
+[E 260706 15:06:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:06:38 smartConnect:124] in pool
+[E 260706 15:06:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:06:50 smartConnect:124] in pool
+[E 260706 15:07:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:07:12 smartConnect:124] in pool
+[E 260706 15:07:15 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:07:25 smartConnect:124] in pool
+[E 260706 15:07:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:07:37 smartConnect:124] in pool
+[E 260706 15:07:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:07:49 smartConnect:124] in pool
+[E 260706 15:07:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:08:01 smartConnect:124] in pool
+[E 260706 15:08:02 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:08:12 smartConnect:124] in pool
+[E 260706 15:08:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:08:24 smartConnect:124] in pool
+[E 260706 15:08:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:08:36 smartConnect:124] in pool
+[E 260706 15:08:37 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:08:47 smartConnect:124] in pool
+[E 260706 15:08:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:08:50 smartConnect:124] in pool
+[E 260706 15:09:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:09:12 smartConnect:124] in pool
+[E 260706 15:09:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:09:24 smartConnect:124] in pool
+[E 260706 15:09:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:09:36 smartConnect:124] in pool
+[E 260706 15:09:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:09:48 smartConnect:124] in pool
+[E 260706 15:09:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:10:00 smartConnect:124] in pool
+[E 260706 15:10:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:10:13 smartConnect:124] in pool
+[E 260706 15:10:14 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:10:25 smartConnect:124] in pool
+[E 260706 15:10:26 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:10:36 smartConnect:124] in pool
+[E 260706 15:10:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:10:48 smartConnect:124] in pool
+[E 260706 15:10:49 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:10:50 smartConnect:124] in pool
+[E 260706 15:11:01 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:11:11 smartConnect:124] in pool
+[E 260706 15:11:13 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:11:23 smartConnect:124] in pool
+[E 260706 15:11:25 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:11:35 smartConnect:124] in pool
+[E 260706 15:11:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:11:46 smartConnect:124] in pool
+[E 260706 15:11:48 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:11:50 smartConnect:124] in pool
+[E 260706 15:11:59 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:12:09 smartConnect:124] in pool
+[E 260706 15:12:11 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:12:21 smartConnect:124] in pool
+[E 260706 15:12:22 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:12:32 smartConnect:124] in pool
+[E 260706 15:12:34 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:12:44 smartConnect:124] in pool
+[E 260706 15:12:46 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:12:50 smartConnect:124] in pool
+[E 260706 15:12:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:13:07 smartConnect:124] in pool
+[E 260706 15:13:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:13:19 smartConnect:124] in pool
+[E 260706 15:13:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:13:30 smartConnect:124] in pool
+[E 260706 15:13:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:13:42 smartConnect:124] in pool
+[E 260706 15:13:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:13:50 smartConnect:124] in pool
+[E 260706 15:13:56 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:14:06 smartConnect:124] in pool
+[E 260706 15:14:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:14:18 smartConnect:124] in pool
+[E 260706 15:14:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:14:29 smartConnect:124] in pool
+[E 260706 15:14:31 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:14:41 smartConnect:124] in pool
+[E 260706 15:14:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:14:50 smartConnect:124] in pool
+[E 260706 15:14:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:15:04 smartConnect:124] in pool
+[E 260706 15:15:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:15:16 smartConnect:124] in pool
+[E 260706 15:15:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:15:28 smartConnect:124] in pool
+[E 260706 15:15:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:15:40 smartConnect:124] in pool
+[E 260706 15:15:42 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:15:50 smartConnect:124] in pool
+[E 260706 15:15:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:16:04 smartConnect:124] in pool
+[E 260706 15:16:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:16:16 smartConnect:124] in pool
+[E 260706 15:16:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:16:27 smartConnect:124] in pool
+[E 260706 15:16:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:16:39 smartConnect:124] in pool
+[E 260706 15:16:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:16:50 smartConnect:124] in pool
+[E 260706 15:16:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:17:03 smartConnect:124] in pool
+[E 260706 15:17:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:17:14 smartConnect:124] in pool
+[E 260706 15:17:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:17:27 smartConnect:124] in pool
+[E 260706 15:17:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:17:39 smartConnect:124] in pool
+[E 260706 15:17:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:17:50 smartConnect:124] in pool
+[E 260706 15:17:54 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:18:04 smartConnect:124] in pool
+[E 260706 15:18:06 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:18:16 smartConnect:124] in pool
+[E 260706 15:18:18 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:18:28 smartConnect:124] in pool
+[E 260706 15:18:29 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:18:39 smartConnect:124] in pool
+[E 260706 15:18:41 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:18:50 smartConnect:124] in pool
+[E 260706 15:18:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:19:03 smartConnect:124] in pool
+[E 260706 15:19:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:19:14 smartConnect:124] in pool
+[E 260706 15:19:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:19:26 smartConnect:124] in pool
+[E 260706 15:19:27 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:19:37 smartConnect:124] in pool
+[E 260706 15:19:39 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260706 15:19:49 smartConnect:124] in pool
+[E 260706 15:19:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'

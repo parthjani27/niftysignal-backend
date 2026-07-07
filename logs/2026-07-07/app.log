@@ -1,0 +1,86 @@
+[E 260707 09:29:36 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:29:46 smartConnect:124] in pool
+[E 260707 09:29:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:30:00 smartConnect:124] in pool
+[E 260707 09:30:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:30:15 smartConnect:124] in pool
+[E 260707 09:30:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:30:27 smartConnect:124] in pool
+[E 260707 09:30:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:30:39 smartConnect:124] in pool
+[E 260707 09:30:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:30:50 smartConnect:124] in pool
+[E 260707 09:30:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:31:03 smartConnect:124] in pool
+[E 260707 09:31:04 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:31:15 smartConnect:124] in pool
+[E 260707 09:31:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:31:26 smartConnect:124] in pool
+[E 260707 09:31:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:31:38 smartConnect:124] in pool
+[E 260707 09:31:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:31:51 smartConnect:124] in pool
+[E 260707 09:31:52 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:32:02 smartConnect:124] in pool
+[E 260707 09:32:05 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:32:15 smartConnect:124] in pool
+[E 260707 09:32:19 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:32:29 smartConnect:124] in pool
+[E 260707 09:32:32 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:32:43 smartConnect:124] in pool
+[E 260707 09:32:51 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:33:01 smartConnect:124] in pool
+[E 260707 09:33:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:33:14 smartConnect:124] in pool
+[E 260707 09:33:16 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:33:27 smartConnect:124] in pool
+[E 260707 09:33:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:33:38 smartConnect:124] in pool
+[E 260707 09:33:40 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:33:50 smartConnect:124] in pool
+[E 260707 09:33:53 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:33:56 smartConnect:124] in pool
+[E 260707 09:34:10 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:34:15 smartConnect:124] in pool
+[E 260707 09:34:28 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:34:28 smartConnect:124] in pool
+[E 260707 09:34:44 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:34:49 smartConnect:124] in pool
+[E 260707 09:34:58 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:35:02 smartConnect:124] in pool
+[E 260707 09:35:12 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:35:22 smartConnect:124] in pool
+[E 260707 09:35:24 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:35:34 smartConnect:124] in pool
+[E 260707 09:35:38 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:35:42 smartConnect:124] in pool
+[E 260707 09:35:50 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:36:00 smartConnect:124] in pool
+[E 260707 09:36:03 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:36:10 smartConnect:124] in pool
+[E 260707 09:36:17 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:36:19 smartConnect:124] in pool
+[E 260707 09:36:22 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData. Error: Too many requests. URL: https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '24:fd:52:e2:84:d1', 'Accept': 'application/json', 'X-PrivateKey': 'pBBfHTNf', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'exchange': 'NSE', 'symboltoken': '99926000', 'interval': 'FIVE_MINUTE', 'fromdate': '2026-06-23 09:36', 'todate': '2026-07-07 09:36'}, Response: {'message': 'Too many requests', 'errorcode': 'AB1021', 'status': False, 'data': None}
+[E 260707 09:36:30 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:36:32 smartConnect:124] in pool
+[E 260707 09:36:43 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:36:47 smartConnect:124] in pool
+[E 260707 09:36:55 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:36:57 smartConnect:124] in pool
+[E 260707 09:37:08 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:37:12 smartConnect:124] in pool
+[E 260707 09:37:21 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:37:22 smartConnect:124] in pool
+[E 260707 09:37:33 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:37:33 smartConnect:124] in pool
+[E 260707 09:37:36 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData. Error: Too many requests. URL: https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '24:fd:52:e2:84:d1', 'Accept': 'application/json', 'X-PrivateKey': 'pBBfHTNf', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'exchange': 'NSE', 'symboltoken': '99926000', 'interval': 'FIVE_MINUTE', 'fromdate': '2026-06-23 09:37', 'todate': '2026-07-07 09:37'}, Response: {'message': 'Too many requests', 'errorcode': 'AB1021', 'status': False, 'data': None}
+[E 260707 09:37:45 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:37:47 smartConnect:124] in pool
+[E 260707 09:37:57 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:37:57 smartConnect:124] in pool
+[E 260707 09:38:09 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[I 260707 09:38:19 smartConnect:124] in pool
+[E 260707 09:38:20 smartWebSocketV2:212] Error occurred during subscribe: 'NoneType' object has no attribute 'send'
+[E 260707 09:40:21 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData. Error: Too many requests. URL: https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '24:fd:52:e2:84:d1', 'Accept': 'application/json', 'X-PrivateKey': 'pBBfHTNf', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'exchange': 'BSE', 'symboltoken': '99919000', 'interval': 'ONE_MINUTE', 'fromdate': '2026-07-02 09:40', 'todate': '2026-07-07 09:40'}, Response: {'message': 'Too many requests', 'errorcode': 'AB1021', 'status': False, 'data': None}
+[E 260707 10:02:37 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData. Error: Too many requests. URL: https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '24:fd:52:e2:84:d1', 'Accept': 'application/json', 'X-PrivateKey': 'pBBfHTNf', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'exchange': 'NSE', 'symboltoken': '99926000', 'interval': 'FIVE_MINUTE', 'fromdate': '2026-06-23 10:02', 'todate': '2026-07-07 10:02'}, Response: {'message': 'Too many requests', 'errorcode': 'AB1021', 'status': False, 'data': None}
+[E 260707 10:14:36 smartConnect:246] Error occurred while making a POST request to https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData. Error: Too many requests. URL: https://apiconnect.angelone.in/rest/secure/angelbroking/historical/v1/getCandleData, Headers: {'Content-type': 'application/json', 'X-ClientLocalIP': '127.0.0.1', 'X-ClientPublicIP': '106.193.147.98', 'X-MACAddress': '24:fd:52:e2:84:d1', 'Accept': 'application/json', 'X-PrivateKey': 'pBBfHTNf', 'X-UserType': 'USER', 'X-SourceID': 'WEB'}, Request: {'exchange': 'BSE', 'symboltoken': '99919000', 'interval': 'FIVE_MINUTE', 'fromdate': '2026-07-02 10:14', 'todate': '2026-07-07 10:14'}, Response: {'message': 'Too many requests', 'errorcode': 'AB1021', 'status': False, 'data': None}
