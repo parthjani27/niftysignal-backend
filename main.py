@@ -19,10 +19,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-API_KEY   = "pBBfHTNf"
-CLIENT_ID   = "MAEL1045"       # e.g. "A12345678"
-PASSWORD    = "2911"         # your Angel One login password
-TOTP_KEY    = "7Y26PZSOTY54CNCAMFQZO7XGPI"
+API_KEY     = os.getenv("ANGEL_API_KEY")
+CLIENT_ID   = os.getenv("ANGEL_CLIENT_ID")
+PASSWORD    = os.getenv("ANGEL_PASSWORD")
+TOTP_KEY    = os.getenv("ANGEL_TOTP_KEY")
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN", "8935646874:AAGhni4W84AwNmcm5YM9WMTSs16NpfHcdxU")
 SUBSCRIBERS_FILE = "subscribers.json"
@@ -310,6 +310,10 @@ def root():
     subs = load_subscribers()
     return {"status": "NiftySignal running", "subscribers": len(subs), "names": list(subs.keys())}
 
+@app.head("/")
+def root_head():
+    return {}
+
 @app.get("/subscribers")
 def get_subscribers():
     return load_subscribers()
@@ -318,6 +322,20 @@ def get_subscribers():
 def test_telegram():
     send_to_all("✅ <b>NiftySignal PRO</b>\n\nTelegram alerts working!")
     return {"status": "Sent to all subscribers!"}
+
+@app.get("/test-signal")
+def test_signal():
+    msg = (
+        f"🟢 <b>BUY SIGNAL</b> (TEST)\n\n"
+        f"📊 <b>NIFTY</b> | 5min\n"
+        f"💰 Price: <b>₹24,250.00</b>\n"
+        f"🛑 SL: ₹24,150.00  🎯 Target: ₹24,400.00\n"
+        f"📈 ADX: 27.3 (trending)  |  Above VWAP ₹24,200.00\n"
+        f"🕐 {datetime.now().strftime('%d %b %Y %I:%M %p')}\n\n"
+        f"<i>NiftySignal PRO — this is a test signal, not a real trade</i>"
+    )
+    send_to_all(msg)
+    return {"status": "Test signal sent to all subscribers!"}
 
 @app.get("/chart-data/{symbol}/{timeframe}")
 def get_chart_data(symbol: str, timeframe: str):
