@@ -523,6 +523,24 @@ def debug_login():
             "error": str(e),
         }
 
+@app.get("/debug-futures")
+def debug_futures():
+    try:
+        obj = get_angel_session()
+        results = {}
+        for symbol in SYMBOL_CONFIG:
+            token, exchange = get_futures_contract(obj, symbol)
+            cached = futures_token_cache.get(symbol)
+            results[symbol] = {
+                "token": token,
+                "exchange": exchange,
+                "tradingsymbol": cached.get("tradingsymbol") if cached else None,
+                "found": token is not None,
+            }
+        return results
+    except Exception as e:
+        return {"error": str(e)}
+
 @app.get("/chart-data/{symbol}/{timeframe}")
 def get_chart_data(symbol: str, timeframe: str):
     symbol    = symbol.upper()
