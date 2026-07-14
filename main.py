@@ -33,15 +33,13 @@ SYMBOL_CONFIG = {
     "SENSEX": {"token": "99919000", "exchange": "BSE"},
 }
 
-# Segment/search text used to look up the current-month futures contract
-# for each index, since the spot index itself has no real traded volume.
 FUTURES_SEARCH_CONFIG = {
     "NIFTY":  {"exchange": "NFO", "search": "NIFTY"},
     "SENSEX": {"exchange": "BFO", "search": "SENSEX"},
 }
 
 last_signal_sent = {}
-futures_token_cache = {}   # {symbol: {"token":..., "exchange":..., "date":..., "tradingsymbol":...}}
+futures_token_cache = {}
 last_cpr_date = None
 
 ADX_THRESHOLD = 20
@@ -215,12 +213,6 @@ def calculate_adx(candles, period=14):
         adx[i] = (adx[i-1] * (period - 1) + dx[i]) / period
     return adx
 
-# ---- Futures-based VWAP (Option 1) ----
-# Spot NIFTY/SENSEX candles have no real volume, so true VWAP can't be
-# computed from them directly. Instead we look up the current-month
-# futures contract (which DOES have real traded volume) and use ITS
-# volume, matched by timestamp, against the spot candle's typical price.
-
 def get_futures_contract(obj, symbol):
     today_str = datetime.now().strftime("%Y-%m-%d")
     cached = futures_token_cache.get(symbol)
@@ -230,7 +222,7 @@ def get_futures_contract(obj, symbol):
     if not cfg:
         return None, None
     try:
-        result = obj.searchScrip(exchange=cfg["exchange"], searchtext=cfg["search"])
+        result = obj.searchScrip(cfg["exchange"], cfg["search"])
         scrips = result.get("data", []) if result else []
         candidates = []
         for s in scrips:
@@ -280,12 +272,6 @@ def fetch_futures_candles(obj, symbol, interval, from_date_str, to_date_str):
         return []
 
 def calculate_vwap_from_futures(spot_candles, futures_candles):
-    """
-    VWAP using spot's typical price but futures' real volume, matched by
-    timestamp. Resets each trading day. Falls back to a simple running
-    average of typical price on days/candles where no futures volume is
-    available, so the line stays continuous instead of breaking.
-    """
     n = len(spot_candles)
     vwap = [None] * n
     vol_map = {c[0]: c[5] for c in futures_candles if len(c) > 5}
@@ -308,8 +294,6 @@ def calculate_vwap_from_futures(spot_candles, futures_candles):
         else:
             vwap[i] = (cum_pv / cum_vol) if cum_vol > 0 else (cum_price / cum_count)
     return vwap
-
-# ---- CPR (Option 2) — reference-only, NOT used in signal logic ----
 
 def calculate_cpr(prev_high, prev_low, prev_close):
     pivot = (prev_high + prev_low + prev_close) / 3
@@ -339,7 +323,7 @@ def get_previous_day_ohlc(obj, symbol):
     if not candles:
         return None
     last = candles[-1]
-    return last[2], last[3], last[4]  # high, low, close
+    return last[2], last[3], last[4]
 
 def cpr_scheduler():
     global last_cpr_date
@@ -377,8 +361,6 @@ def cpr_scheduler():
         except Exception as e:
             print(f"CPR scheduler error: {e}")
         time.sleep(30)
-
-# ---- Signal detection (uses futures-VWAP + ADX, NOT CPR) ----
 
 def detect_crossover(spot_candles, futures_candles, symbol, timeframe):
     if len(spot_candles) < 60:
