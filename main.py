@@ -33,7 +33,6 @@ FUTURES_SEARCH_CONFIG = {
 STRIKE_STEP = {"NIFTY": 50, "SENSEX": 100}
 LOT_SIZES = {"NIFTY": 65, "SENSEX": 25}
 TRADE_BUDGET = 5000
-ATM_DELTA_APPROX = 0.5  # rough ATM delta used only to ballpark option SL/target
 
 last_signal_sent    = {}
 futures_token_cache = {}
@@ -336,15 +335,33 @@ def get_ltp(obj, exchange, tradingsymbol, token):
         print(f"LTP fetch error: {e}")
         return None
 
+def get_empirical_delta(obj, symbol, atm_strike, option_type, atm_premium):
+    """
+    Instead of assuming a fixed delta (~0.5), pull the ACTUAL live premiums
+    one strike above and below the ATM strike from Angel One's real option
+    chain, and compute delta from real market prices right now:
+        delta ≈ (premium_lower_strike - premium_higher_strike) / (2 * step)
+    For calls, lower strikes have higher premiums (so this is positive);
+    for puts it's the mirror. Falls back to the ATM premium's own scale
+    if a neighboring strike can't be fetched, rather than guessing 0.5.
+    """
+    step = STRIKE_STEP.get(symbol, 50)
+    lower_strike = atm_strike - step
+    higher_strike = atm_strike + step
+    token_l, exch_l, tsym_l = get_option_contract(obj, symbol, lower_strike, option_type)
+    token_h, exch_h, tsym_h = get_option_contract(obj, symbol, higher_strike, option_type)
+    premium_l = get_ltp(obj, exch_l, tsym_l, token_l) if token_l else None
+    premium_h = get_ltp(obj, exch_h, tsym_h, token_h) if token_h else None
+    if premium_l is not None and premium_h is not None and premium_l != premium_h:
+        raw_delta = abs(premium_l - premium_h) / (2 * step)
+        # sanity clamp — real delta for a near-ATM option is virtually
+        # always between 0.2 and 0.8; anything outside that suggests a
+        # bad data point, so fall back rather than trust it blindly
+        if 0.2 <= raw_delta <= 0.8:
+            return raw_delta
+    return 0.5  # fallback only if live neighboring strikes weren't available
+
 def suggest_option_trade(obj, symbol, direction, spot_price, sl, t1, t2, t3, budget=TRADE_BUDGET):
-    """
-    Fetches the live ATM option premium, tells you how many lots your
-    budget affords, AND ballparks an option SL/T1/T2/T3 using a rough
-    ATM delta approximation (~0.5): "if the index moves X points, the
-    premium moves roughly 0.5*X points." Real option movement also
-    depends on gamma, theta decay, and IV changes — none of which this
-    models. Treat these as a rough planning reference, verify live.
-    """
     option_type = "CE" if direction == "BUY" else "PE"
     step = STRIKE_STEP.get(symbol, 50)
     atm_strike = round(spot_price / step) * step
@@ -358,21 +375,24 @@ def suggest_option_trade(obj, symbol, direction, spot_price, sl, t1, t2, t3, bud
     cost_per_lot = premium * lot_size
     max_lots = int(budget // cost_per_lot) if cost_per_lot > 0 else 0
 
+    delta = get_empirical_delta(obj, symbol, atm_strike, option_type, premium)
+
     move_to_sl = abs(spot_price - sl)
     move_to_t1 = abs(t1 - spot_price)
     move_to_t2 = abs(t2 - spot_price)
     move_to_t3 = abs(t3 - spot_price)
 
-    opt_sl = round(max(premium - ATM_DELTA_APPROX * move_to_sl, 0.05), 2)
-    opt_t1 = round(premium + ATM_DELTA_APPROX * move_to_t1, 2)
-    opt_t2 = round(premium + ATM_DELTA_APPROX * move_to_t2, 2)
-    opt_t3 = round(premium + ATM_DELTA_APPROX * move_to_t3, 2)
+    opt_sl = round(max(premium - delta * move_to_sl, 0.05), 2)
+    opt_t1 = round(premium + delta * move_to_t1, 2)
+    opt_t2 = round(premium + delta * move_to_t2, 2)
+    opt_t3 = round(premium + delta * move_to_t3, 2)
 
     return {
         "tradingsymbol": tsym, "strike": atm_strike, "option_type": option_type,
         "premium": round(premium, 2), "lot_size": lot_size,
         "cost_per_lot": round(cost_per_lot, 2), "max_lots": max_lots,
         "total_cost": round(max_lots * cost_per_lot, 2),
+        "delta_used": round(delta, 3),
         "opt_sl": opt_sl, "opt_t1": opt_t1, "opt_t2": opt_t2, "opt_t3": opt_t3,
     }
 
@@ -464,11 +484,11 @@ def build_combined_signal_message(obj, signals):
             lines.append(
                 f"🎟 <b>Option idea</b> (₹{TRADE_BUDGET:,} budget, reference only):\n"
                 f"{opt['tradingsymbol']}\n"
-                f"Premium: ₹{opt['premium']:,.2f}  |  Lot size: {opt['lot_size']}\n"
+                f"Live Premium: ₹{opt['premium']:,.2f}  |  Lot size: {opt['lot_size']}\n"
                 f"Cost/lot: ₹{opt['cost_per_lot']:,.2f}  →  Affordable: <b>{opt['max_lots']} lot(s)</b> (₹{opt['total_cost']:,.2f})\n"
                 f"🛑 Option SL: ₹{opt['opt_sl']:,.2f}\n"
                 f"🎯 Option T1: ₹{opt['opt_t1']:,.2f}  T2: ₹{opt['opt_t2']:,.2f}  T3: ₹{opt['opt_t3']:,.2f}\n"
-                f"<i>(Option SL/target are a rough ATM-delta ~0.5 estimate — real premium movement also depends on gamma, theta, and IV. Verify live before placing order.)</i>"
+                f"<i>(Delta {opt['delta_used']} measured from live neighboring strikes just now. Projected SL/target still assume this delta stays constant as price moves — real premium can differ due to time decay and IV shifts. Verify live before placing order.)</i>"
             )
         else:
             lines.append("🎟 <i>Option premium lookup failed — check manually on your broker app.</i>")
@@ -575,6 +595,26 @@ def debug_futures():
             results[symbol] = {"token": token, "exchange": exchange, "tradingsymbol": cached.get("tradingsymbol") if cached else None, "found": token is not None}
         return results
     except Exception as e: return {"error": str(e)}
+
+@app.get("/debug-option/{symbol}/{direction}")
+def debug_option(symbol: str, direction: str):
+    try:
+        obj = get_angel_session()
+        symbol = symbol.upper()
+        # rough current spot price via LTP on the index itself
+        config = SYMBOL_CONFIG.get(symbol)
+        if not config: return {"error": "Use NIFTY or SENSEX"}
+        spot = get_ltp(obj, config["exchange"], symbol, config["token"])
+        if not spot: return {"error": "Could not fetch spot price"}
+        atr_est = spot * 0.003
+        if direction.upper() == "BUY":
+            sl, t1, t2, t3 = spot - 1.5*atr_est, spot + atr_est, spot + 2*atr_est, spot + 3*atr_est
+        else:
+            sl, t1, t2, t3 = spot + 1.5*atr_est, spot - atr_est, spot - 2*atr_est, spot - 3*atr_est
+        opt = suggest_option_trade(obj, symbol, direction.upper(), spot, sl, t1, t2, t3)
+        return {"spot": spot, "option": opt} if opt else {"error": "Option lookup failed"}
+    except Exception as e:
+        return {"error": str(e)}
 
 @app.get("/chart-data/{symbol}/{timeframe}")
 def get_chart_data(symbol: str, timeframe: str):
